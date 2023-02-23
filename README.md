@@ -1,4 +1,4 @@
-## Olá, Sou PEDRO LUCAS!! é um prazer ter você aqui.
+## Olá, eu sou PEDRO LUCAS! É um prazer ter você aqui!
 <div align="center">
   <a href="https://github.com/PedroSOARESL">
 </div>
